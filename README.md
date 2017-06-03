@@ -1,4 +1,3 @@
 # Nemeziz
 Repository for Nemeziz Project
-
-adding some text as I learn how to use github
+code tested and used at launch event
